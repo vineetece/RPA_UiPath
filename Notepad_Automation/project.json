@@ -1,0 +1,14 @@
+{
+  "name": "Notepad_Automation",
+  "description": "Notepad_Automation",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6973.19682",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
